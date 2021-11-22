@@ -6,8 +6,8 @@ My current research project focuses on the evolution of human mobility patterns 
 
 
 
-### Discovering the Evolution of Human Mobility Patterns through Different Phases of the COVID-19 Response in Ontario
-As this topic suggests, in this project, I aim to evaluate the non-pharmaceutical interventions from the local and the provincial governments in Ontario by leveraging the power of human mobility data and deep learning models.
+## Discovering the Evolution of Human Mobility Patterns through Different Phases of the COVID-19 Response in Ontario
+As the topic suggests, in this project, I aim to evaluate the non-pharmaceutical interventions from the local and the provincial governments in Ontario by leveraging the power of human mobility data and deep learning models.
 
 ![image](https://user-images.githubusercontent.com/66392477/142796700-4b139113-f932-415a-890f-69f9480c21e6.png)
 
@@ -15,7 +15,7 @@ Several previous studies on COVID-19 response (Pepe et al. 2020 & Kang et al. 20
 
 **In Ontario, how effective have those lockdown policies been?** Do we still need them if they have failed to reduce people’s moving activities but instead exuberated the case by urging more people to gather on the streets? How would the travelling decision of individuals make a difference to their community or the city/province overall?
 
-### In Context of the Sustainable Development Goals
+## In Context of the Sustainable Development Goals
 To put this research in a broader context and to echo the urgent call for action of the Sustainable Development Goals (SDGs) from the United Nations, I will give my two cents on how my research help achieve the following three SDGs:
 
 1. Good Health & Well-Being
@@ -31,13 +31,14 @@ To put this research in a broader context and to echo the urgent call for action
 3. Sustainable Cities & Communities
     
     One of the goals of this research is to help form more effective pandemic safety strategies in cities and human settlements and thus enable people to live in an inclusive, safe, resilient and sustainable community.
-    
-### Why AM I Here at UW?
+    ![SDG_report_2021_Goal 11](https://user-images.githubusercontent.com/66392477/142803675-5d1196bf-0456-4952-9a0a-3f1846f123a2.png)
+
+## Why AM I Here at UW?
 Just to briefly talk about whom I work with and why I choose UW. My supervisor, [Professor Jonathan Li](https://uwaterloo.ca/geospatial-sensing/people-profiles/jonathan-li), is a Professor of geospatial data science at the Department of Geography and Environmental Management and also the founder of Geospatial Sensing and Data Intelligence Lab at the University of Waterloo. His recent research projects focus on the development of innovative AI-based algorithms, methods, and software tools for handling large-volume geospatial data; the development of sensor-driven mobile mapping solutions to modeling of roadway environments; the development of remote sensing approaches to understanding urban growth and examining the environmental consequences of urban expansion. 
 
 I initial chose to attend UW and to work with Professor Jonathan Li because of my experience as a research assistant working in the GeoSense Lab. 
 
-#### References
+### References
 Gao, S., Rao, J., Kang, Y., Liang, Y., Kruse, J., Doepfer, D., ... & Yandell, B. S. (2020). Mobile phone location data reveal the effect and geographic variation of social distancing on the spread of the COVID-19 epidemic. arXiv preprint arXiv:2004.11430.
 
 Kang Y, Gao S, Liang Y, Li M, Rao J, Kruse J. Multiscale dynamic human mobility flow dataset in the U.S. during the COVID-19 epidemic. Sci Data. 2020 Nov 12;7(1):390. doi: 10.1038/s41597-020-00734-5. PMID: 33184280; PMCID: PMC7661515.
