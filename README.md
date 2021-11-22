@@ -15,7 +15,7 @@ Several previous studies on COVID-19 response (Pepe et al. 2020 & Kang et al. 20
 
 **In Ontario, how effective have those lockdown policies been?** Do we still need them if they have failed to reduce people’s moving activities but instead exuberated the case by urging more people to gather on the streets? How would the travelling decision of individuals make a difference to their community or the city/province overall?
 
-## In Context of the Sustainable Development Goals
+## In Context of the Sustainable Development 
 To put this research in a broader context and to echo the urgent call for action of the Sustainable Development Goals (SDGs) from the United Nations, I will give my two cents on how my research help achieve the following three SDGs:
 
 1. Good Health & Well-Being
@@ -34,9 +34,11 @@ To put this research in a broader context and to echo the urgent call for action
     ![SDG_report_2021_Goal 11](https://user-images.githubusercontent.com/66392477/142803675-5d1196bf-0456-4952-9a0a-3f1846f123a2.png)
 
 ## Why AM I Here at UW?
-Just to briefly talk about whom I work with and why I choose UW. My supervisor, [Professor Jonathan Li](https://uwaterloo.ca/geospatial-sensing/people-profiles/jonathan-li), is a Professor of geospatial data science at the Department of Geography and Environmental Management and also the founder of Geospatial Sensing and Data Intelligence Lab at the University of Waterloo. His recent research projects focus on the development of innovative AI-based algorithms, methods, and software tools for handling large-volume geospatial data; the development of sensor-driven mobile mapping solutions to modeling of roadway environments; the development of remote sensing approaches to understanding urban growth and examining the environmental consequences of urban expansion. 
+Last year right after I graduated from my underdrate school the University of Toronto, I started to do researching at one of the labs at UW, the [GeoSensing and Data Intelligence Lab](https://uwaterloo.ca/geospatial-sensing/), and that's how I got attracted by geospatial data science and ended up doing my masters here at UW working with Professor Jonathan Li. 
 
-I initial chose to attend UW and to work with Professor Jonathan Li because of my experience as a research assistant working in the GeoSense Lab. 
+A breif about my supervisor, [Dr. Jonathan Li](https://uwaterloo.ca/geospatial-sensing/people-profiles/jonathan-li). He is a professor of geospatial data science at the Department of Geography and Environmental Management at UW and also the founder of our lab. His recent research projects focus on the development of innovative AI-based algorithms, methods, and software tools for handling large-volume geospatial data; the development of sensor-driven mobile mapping solutions to modeling of roadway environments; the development of remote sensing approaches to understanding urban growth and examining the environmental consequences of urban expansion. 
+
+
 
 ### References
 Gao, S., Rao, J., Kang, Y., Liang, Y., Kruse, J., Doepfer, D., ... & Yandell, B. S. (2020). Mobile phone location data reveal the effect and geographic variation of social distancing on the spread of the COVID-19 epidemic. arXiv preprint arXiv:2004.11430.
