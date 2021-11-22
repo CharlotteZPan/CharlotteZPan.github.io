@@ -30,13 +30,14 @@ To put this research in a broader context and to echo the urgent call for action
 
 3. Sustainable Cities & Communities
     
-    One of the goals of this research is to help form more effective pandemic safety strategies in cities and human settlements and thus enable people to live in an inclusive, safe, resilient and sustainable community.
+    One of the goals of this research is to help form more effective pandemic safety strategies in cities of Ontario and thus enable people to live in an [inclusive, safe, resilient and sustainable community](https://sdgs.un.org/goals/goal11).
     ![SDG_report_2021_Goal 11](https://user-images.githubusercontent.com/66392477/142803675-5d1196bf-0456-4952-9a0a-3f1846f123a2.png)
 
 ## Why AM I Here at UW?
-Last year right after I graduated from my underdrate school the University of Toronto, I started to do researching at one of the labs at UW, the [GeoSensing and Data Intelligence Lab](https://uwaterloo.ca/geospatial-sensing/), and that's how I got attracted by geospatial data science and ended up doing my masters here at UW working with Professor Jonathan Li. 
+Last year right after I graduated from my underdrate school the University of Toronto, I started to do researching at one of the labs at UW, the [GeoSensing and Data Intelligence Lab](https://uwaterloo.ca/geospatial-sensing/), and that's how I got attracted by geospatial data science and ended up doing my masters here at UW working with Professor Jonathan Li. Recently I have done a project using geographically weighted regression models to investigate the correlation between COVID growing trends and economic factors in Canada. Now my team and I are starting a new project to investigate how the human mobilities have varied during the pandemic in the data collection stage. The major challenge is that we don't have open source mobility data sets for Canada, that have a high gragulatity in terms of location. For my research paper project, I will be narrowing down the scope to Ontario and focusing more on the impact of local COVID policies. 
 
-A breif about my supervisor, [Dr. Jonathan Li](https://uwaterloo.ca/geospatial-sensing/people-profiles/jonathan-li). He is a professor of geospatial data science at the Department of Geography and Environmental Management at UW and also the founder of our lab. His recent research projects focus on the development of innovative AI-based algorithms, methods, and software tools for handling large-volume geospatial data; the development of sensor-driven mobile mapping solutions to modeling of roadway environments; the development of remote sensing approaches to understanding urban growth and examining the environmental consequences of urban expansion. 
+## Whom I work with?
+A breif about my supervisor, [Dr. Jonathan Li](https://uwaterloo.ca/geospatial-sensing/people-profiles/jonathan-li). He is a professor of geospatial data science at the Department of Geography and Environmental Management at UW and also the founder of our lab. His recent research projects focus on the development of innovative AI-based algorithms, methods, and software tools for handling large-volume geospatial data; the development of sensor-driven mobile mapping solutions to modeling of roadway environments; the development of remote sensing approaches to understanding urban growth and examining the environmental consequences of urban expansion. Profiles of all my teammates at the lab are accessible here: https://uwaterloo.ca/geospatial-sensing/people-profiles
 
 
 
